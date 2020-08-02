@@ -45,6 +45,7 @@ code {
         grid-template-columns: 1fr;
         grid-template-areas: "navbar""mainContent";
     }
+    
 
     nav#navbar {
         position: inherit;
